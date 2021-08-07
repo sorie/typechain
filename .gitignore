@@ -1,2 +1,8 @@
+#yarn Integrity file
 /node_modules
 /yarn.lock
+
+# dotenv environment variables file
+.env
+dist
+
